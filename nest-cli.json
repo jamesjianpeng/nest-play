@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "slice-uplaod": {
+      "type": "library",
+      "root": "libs/slice-uplaod",
+      "entryFile": "index",
+      "sourceRoot": "libs/slice-uplaod/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/slice-uplaod/tsconfig.lib.json"
+      }
+    }
+  },
+  "compilerOptions": {
+    "webpack": true
+  }
+}
